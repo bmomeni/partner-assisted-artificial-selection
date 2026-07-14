@@ -1,4 +1,4 @@
-% @ 2022 the Trustees of Boston College. All rights reserved.
+% (c) 2022 the Trustees of Boston College. All rights reserved.
 % Modeling toxin degradation in a community with an assisting species
 % A: assisting population (supports the growth of D)
 % D: degrading populations (removes T)
